@@ -1,0 +1,18 @@
+#carouselControls {
+    position: relative;
+}
+.uploadButton {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 22;
+    color: white;
+    text-align: left;
+}
+.btn {
+    background-color: #66cc99;
+
+}
+.btn:hover {
+    color:white;
+}

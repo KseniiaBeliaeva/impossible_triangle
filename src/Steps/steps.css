@@ -1,0 +1,9 @@
+.stepsImage {
+    height: 150px;
+
+}
+.stepsWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 0;
+}

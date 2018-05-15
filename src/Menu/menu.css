@@ -1,0 +1,28 @@
+/* .menuLogo {
+    width: 25%;
+} */
+/* .menu {
+    display: inline-flex;
+
+} */
+.nav-link {
+    color:#003333;
+}
+.img-logo {
+    width:100%;
+}
+.menuBtn:hover {
+    color: white;
+    background-color: #33cc99;
+    opacity: 0.6;
+    box-sizing: border-box;
+    border-radius: 2px;
+
+}
+.menuBtn {
+    -webkit-transition: width 2s; /* Safari */
+    transition: ease 0.6s;
+}
+.horizontalText {
+    line-height: 3;
+}

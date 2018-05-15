@@ -1,0 +1,24 @@
+
+.top-image {
+    width: 100%;
+}
+.text-container {
+    position: relative;
+}
+.text-over {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+
+/*Contacts form*/
+.form-block {
+    text-align: left;
+}
+.form-block button {
+    float: right;
+}
+.fullWidth-img {
+    width: 100%;
+}

@@ -5,43 +5,43 @@ import '../App.js';
 import './upload.css';
 import ReactFragment from 'react';
 
-var rows = [
-        {
-                material: "gold",
-                color1: 'polished',
-                color2: 'unpolished',
-                price1: '$600',
-                priceSm1: '+$50<br/>',
-                price2: '$450',
-                priceSm2: '+$45<br/>',
-                quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+// var rows = [
+//         {
+//                 material: "gold",
+//                 color1: 'polished',
+//                 color2: 'unpolished',
+//                 price1: '$600',
+//                 priceSm1: '+$50<br/>',
+//                 price2: '$450',
+//                 priceSm2: '+$45<br/>',
+//                 quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
                 
-        },
-        {
-                material: "silver",
-                color1: 'premium',
-                color2: 'polished',
-                color3: 'unpolished',
-                price1: '$50',
-                priceSm1: '+$45<br/>',
-                price2: '$35',
-                priceSm2: '+$45<br/>',
-                price3: '$28',
-                priceSm3: '+$45<br/>',
-                quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-        },
-        {
-                material: "cooper",
-                color1: 'polished',
-                color2: 'unpolished',
-                price1: '$25',
-                priceSm1: '+$45<br/>',
-                price2: '$10',
-                priceSm2: '+$45<br/>',
+//         },
+//         {
+//                 material: "silver",
+//                 color1: 'premium',
+//                 color2: 'polished',
+//                 color3: 'unpolished',
+//                 price1: '$50',
+//                 priceSm1: '+$45<br/>',
+//                 price2: '$35',
+//                 priceSm2: '+$45<br/>',
+//                 price3: '$28',
+//                 priceSm3: '+$45<br/>',
+//                 quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+//         },
+//         {
+//                 material: "cooper",
+//                 color1: 'polished',
+//                 color2: 'unpolished',
+//                 price1: '$25',
+//                 priceSm1: '+$45<br/>',
+//                 price2: '$10',
+//                 priceSm2: '+$45<br/>',
         
-                quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-        }
-]
+//                 quantity: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+//         }
+// ]
 
 
 class Upload extends Component {
